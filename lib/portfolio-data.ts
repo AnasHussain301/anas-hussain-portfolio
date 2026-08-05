@@ -1,0 +1,47 @@
+import {
+  achievements,
+  blogPosts,
+  certificates,
+  education,
+  experiences,
+  heroStats,
+  navItems,
+  projects,
+  resume,
+  skills,
+  socialLinks,
+  testimonials,
+  commandItems,
+} from "./content";
+
+export {
+  achievements,
+  blogPosts,
+  certificates,
+  education,
+  experiences,
+  heroStats,
+  navItems,
+  projects,
+  resume,
+  skills,
+  socialLinks,
+  testimonials,
+  commandItems,
+};
+
+export const portfolioContent = {
+  heroStats,
+  navItems,
+  commandItems,
+  skills,
+  projects,
+  experiences,
+  education,
+  achievements,
+  testimonials,
+  blogPosts,
+  certificates,
+  socialLinks,
+  resume,
+};
